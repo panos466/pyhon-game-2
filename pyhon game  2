@@ -1,0 +1,37 @@
+"c:\USERS\MY PC\python\python.exe" E:/python/snake_water_gun
+Enter the choice:water
+water vS water,this is draw
+Enter the choice:water
+water vs water,this is draw 
+Enter the choice:gun
+gun vs water,you hve lost this men
+Enter the choice:snake
+snake vs gun,you lost men 
+Enter the choice:gun
+gun vs water,you have lost this men
+Enter the choice:snake
+Enter the choice:snake 
+snake vs water,you won men
+Enter the choice:snake
+snake vs water,you won men 
+Enter the choice;snake
+snake vs water,you won men
+Enter the choice:water
+water vs snake,you have lost men 
+Enter the choice;gun
+gun vs water, you have lost this men 
+your totale score is:3
+youre score=your_score + 1
+elif z == 'gun':
+print('water vs gun,you won men')
+comp_score=comp_score + 1
+elife z == 'water':
+print('water vs water,this is draw')
+draw = draw + 1 
+if x == 'gun':
+if z == 'snake':
+print ('gun vs snake,you won men')
+your_score=your score + 1
+elife z == 'gun':
+print (gun vs gun,this is draw')
+draw=draw + 1
